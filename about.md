@@ -1,13 +1,16 @@
 ---
 title: ABOUT
 subtitle: |- 
+        - 
+
         Hi, My name is Truong Loc Phat.
 
         I am a person exploring the world with a tremendous curiosity of Science
 
         I love immerse myself into Tech, Robotic and Artificial Intelligence
 layout: page
-hero_text_center: true
+hero_ava: /img/ava.jpg
+hero_text_align: has-text-right
 hero_height: 
 show_sidebar: false
 ---
@@ -24,4 +27,3 @@ show_sidebar: false
 
 ![AWS](/img/aws.png)
 
-...(to be continue)
