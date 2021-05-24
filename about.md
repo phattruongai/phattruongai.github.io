@@ -9,21 +9,53 @@ subtitle: |-
 
         I love immerse myself into Tech, Robotic and Artificial Intelligence
 layout: page
+hero_image: /img/hero-wallpaper1.jpg
+hero_darken: true
 hero_ava: /img/ava.jpg
-hero_text_align: has-text-right
 hero_height: 
 show_sidebar: false
 ---
 
+---
+# Careers:
+
+#### . ![career](/img/career.png)      [2019-Now] Machine Learning Specialist - SceneSeer/Devpanel
+
+* MLOps with AWS, Docker
+* Develop various algorithms: Object detection, Image classification, Keypoints estimation, Depth estimation, OCR, ChatBot, etc.
+
+#### . ![career](/img/career.png)      [2018-2020] Student Researcher - Ho Chi Minh University of Technology and Education, Viet Nam
+
+* Research Deep Learning, Computer Vision
+* Research Embedded System, Robotic
+* Writing academic paper
+
+---
 
 
-# Education
+--- 
+# Education:
 
-### 1. B.S of Mechatronics, Ho Chi Minh University of Technology and Education
+#### B.E of Mechatronics, Ho Chi Minh University of Technology and Education
 
-![HCMUTE](/img/hcmute.jpg)
+   ![HCMUTE](/img/hcmute.jpg)
 
-### 2. AWS Machine Learning Certified - Specialty ([here](https://www.youracclaim.com/badges/df01edc6-d23c-4626-acfa-37fb96fec3f4/linked_in_profile)) 
+# Certifications:
+#### AWS Machine Learning Certified - Specialty ([here](https://www.youracclaim.com/badges/df01edc6-d23c-4626-acfa-37fb96fec3f4/linked_in_profile)) 
 
-![AWS](/img/aws.png)
+   ![AWS](/img/aws.png)
+
+---
+
+# Publications:
+
+
+* > Loc-Phat Truong, Bach-Duong Pham, and Quang-Huy Vu. "A Mobile Deep Convolutional Neural Network Combined with Grad-CAM Visual Explanations for Real Time Tomato Quality Classification System." 2020 5th International Conference on Green Technology and Sustainable Development (GTSD). IEEE, 2020. p. 321-325.
+
+
+# Tech skills:
+
+![python](/img/python.png)   ![torch](/img/torch.png)   ![docker](/img/docker.png)   ![bash](/img/bash.png)   ![aws](/img/aws-logo.png)  ![git](/img/git.jpg) 
+
+![opencv](/img/opencv.png)   ![redis](/img/redis.jpg)   ![sql](/img/sql.png)   ![ubuntu](/img/ubuntu.png)   ![fastapi](/img/fastapi.png) 
 
