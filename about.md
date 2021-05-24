@@ -3,7 +3,7 @@ title: ABOUT
 subtitle: |- 
         Hi, My name is Truong Loc Phat.
 
-        I am just a person exploring the world with a tremendous curiosity of Science
+        I am a person exploring the world with a tremendous curiosity of Science
 
         I love immerse myself into Tech, Robotic and Artificial Intelligence
 layout: page
