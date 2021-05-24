@@ -1,13 +1,24 @@
 <section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %} is-bold is-primary" {% if page.hero_image %} style="background: url('{{ page.hero_image }}') no-repeat center center; background-size: cover;" {% endif %}>
     <div class="hero-body {% if page.hero_darken %} hero-darken {% endif %}">
-        <div class="container {% if page.hero_text_center %} has-text-centered {% endif %}">
-            <h1 class="title is-2">{{ page.title }}</h1>
-            <p class="subtitle is-3">
-                <p>{{ page.subtitle | markdownify}}</p>
+        <div class="container {% if page.hero_text_align %} page.hero_text_align {% endif %}">
+            
+                {% if page.hero_ava %}
+                    <figure class="image is-128x128">
+                        <img class="is-rounded" src={{page.hero_ava}}>
+                    </figure>
+                {% endif %}
+        </div>
+        
+        <div class="container {% if page.hero_text_align %} page.hero_text_align {% endif %}">
+            <p class="pb-4">
+                <h1 class="title is-2">{{ page.title }}</h1>
+                <p class="subtitle is-3">
+                    <p>{{ page.subtitle | markdownify}}</p>
+                </p>
+                {% if page.hero_link %}
+                    <a href="{{ page.hero_link | relative_url }}" class="button is-dark is-large is-inverted is-outlined">{{ page.hero_link_text }}</a>
+                {% endif %}
             </p>
-            {% if page.hero_link %}
-                <a href="{{ page.hero_link | relative_url }}" class="button is-dark is-large is-inverted is-outlined">{{ page.hero_link_text }}</a>
-            {% endif %}
         </div>
         <div class="container has-text-centered">
             {% if page.bio %}
