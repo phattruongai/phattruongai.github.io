@@ -17,7 +17,13 @@ show_sidebar: false
 ---
 
 ---
-# Careers:
+
+<!-- # Careers: -->
+<div class="buttons">
+   <button class="button is-primary is-rounded is-medium is-hovered is-static">
+      CAREERS
+   </button>
+</div>
 
 #### . ![career](/img/career.png)      [2019-Now] Machine Learning Specialist - SceneSeer/Devpanel
 
@@ -32,9 +38,13 @@ show_sidebar: false
 
 ---
 
+<!-- # Education: -->
 
---- 
-# Education:
+<div class="buttons">
+   <button class="button is-primary is-rounded is-medium is-hovered is-static">
+      EDUCATION
+   </button>
+</div>
 
 #### B.E of Mechatronics, Ho Chi Minh University of Technology and Education
 
@@ -47,13 +57,24 @@ show_sidebar: false
 
 ---
 
-# Publications:
+<!-- # Publications: -->
+<div class="buttons">
+   <button class="button is-primary is-rounded is-medium is-hovered is-static">
+      PUBLICATION
+   </button>
+</div>
 
 
 * > Loc-Phat Truong, Bach-Duong Pham, and Quang-Huy Vu. "A Mobile Deep Convolutional Neural Network Combined with Grad-CAM Visual Explanations for Real Time Tomato Quality Classification System." 2020 5th International Conference on Green Technology and Sustainable Development (GTSD). IEEE, 2020. p. 321-325.
 
+---
 
-# Tech skills:
+<!-- # Tech skills: -->
+<div class="buttons">
+   <button class="button is-primary is-rounded is-medium is-hovered is-static">
+      TECH SKILL
+   </button>
+</div>
 
 ![python](/img/python.png)   ![torch](/img/torch.png)   ![docker](/img/docker.png)   ![bash](/img/bash.png)   ![aws](/img/aws-logo.png)  ![git](/img/git.jpg) 
 
