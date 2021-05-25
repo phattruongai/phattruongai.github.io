@@ -2,7 +2,7 @@
 layout: post
 title: Amazon Web Services Machine Learning - Specialty Experience
 description: Amazon Web Services Machine Learning - Specialty Experience 
-date: 2020-08-25 09:00:07
+date: 2020-06-07 09:00:07
 hero_image: 
 hero_height:
 hero_darken:
