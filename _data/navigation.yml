@@ -4,9 +4,9 @@
   link: /#
   dropdown:
     - name: Deep Learning
-      link: /AI/
+      link: /blog_deep_learning/
     - name: Sharing
-      link: /Sharing/
+      link: /blog_sharing/
 
 # - name: Reference
 #   dropdown:
