@@ -50,7 +50,14 @@ show_sidebar: false
 
    ![HCMUTE](/img/hcmute.jpg)
 
-# Certifications:
+---
+<!-- # Certifications: -->
+<div class="buttons">
+   <button class="button is-primary is-rounded is-medium is-hovered is-static">
+      CERTIFICATION
+   </button>
+</div>
+
 #### AWS Machine Learning Certified - Specialty ([here](https://www.youracclaim.com/badges/df01edc6-d23c-4626-acfa-37fb96fec3f4/linked_in_profile)) 
 
    ![AWS](/img/aws.png)
