@@ -5,9 +5,13 @@ subtitle: |-
 
         Hi, My name is Truong Loc Phat.
 
-        I am a person exploring the world with a tremendous curiosity of Science
+        I'm an Artificial Intelligence developer based in HCM, Viet Nam.
+        
+        Understand, develop and apply Deep Learning / Machine Learning to real life is my hobby.
 
-        I love immerse myself into Tech, Robotic and Artificial Intelligence
+        "Exploring the world with a tremendous curiosity of Science" - that's me
+
+        
 layout: page
 hero_image: /img/hero-wallpaper1.jpg
 hero_darken: true
