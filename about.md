@@ -13,7 +13,7 @@ hero_image: /img/hero-wallpaper1.jpg
 hero_darken: true
 hero_ava: /img/ava.jpg
 hero_height: 
-show_sidebar: false
+show_sidebar: true
 ---
 
 ---
