@@ -6,8 +6,9 @@ date: 2020-06-07 09:00:07
 hero_image: 
 hero_height:
 hero_darken:
+hero_ava: /img/aws.png
 hide_hero: 
-image: /img/aws-score.png
+image: /img/aws.png
 tags: AWS certification sharing 
 canonical_url:
 ---

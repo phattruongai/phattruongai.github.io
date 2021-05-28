@@ -1,12 +1,7 @@
 - name: About
   link: /about/
 - name: Blog
-  link: /#
-  dropdown:
-    - name: Deep Learning
-      link: /blog_deep_learning/
-    - name: Sharing
-      link: /blog_sharing/
+  link: /blog/
 
 # - name: Reference
 #   dropdown:
