@@ -89,8 +89,12 @@ There are also many other types of question, like which services or composition 
 * After about 2 days, they will send you a email to inform the result again and you can check the score at their site.
 
 
-And here are my accomplishment kk :heart_eyes:
+And here are my accomplishment kk 
 
 ![alt text](/img/aws-score.png)
+
+```bash
+python3 test_script/test/test/test.py --workingdir . --modelpath <your_model_path>
+```
 
 
