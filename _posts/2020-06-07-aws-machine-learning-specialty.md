@@ -93,8 +93,4 @@ And here are my accomplishment kk
 
 ![alt text](/img/aws-score.png)
 
-```bash
-python3 test_script/test/test/test.py --workingdir . --modelpath <your_model_path>
-```
-
 
