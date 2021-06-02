@@ -16,6 +16,55 @@ sponsors: bio_sponsors
 show_sidebar: false 
 ---
 
-# I used to implement various AI project:
+<div class="columns is-mobile is-centered">
+<div class="buttons">
+<button class="button is-primary is-rounded is-medium is-hovered is-static">
+        MY WORKS
+</button>
+</div>
+</div>
+
+<div class="box">
+ <div class = "block">
+   <button class="button is-primary is-normal is-static">
+    <span class="icon is-small has-text-success">
+      <i class="fas fa-check-circle"></i>
+    </span>
+    <span><b>Graduation Project: Tomato classification system</b></span>
+   </button>
+  </div>
+ <div class = "block">
+  <p>Lorem ipsum</p>
+ </div>
+</div>
+
+<div class="box">
+ <div class = "block">
+   <button class="button is-primary is-normal is-outlined is-static">
+    <span class="icon is-small has-text-success">
+      <i class="fas fa-check-circle"></i>
+    </span>
+    <span>ABU Robocon 2018: Robot throw the shuttlecock</span>
+   </button>
+  </div>
+ <div class = "block">
+  <p>Lorem ipsum</p>
+ </div>
+</div>
+
+<div class="box">
+ <div class = "block">
+   <button class="button is-primary is-normal is-outlined is-static">
+    <span class="icon is-small has-text-success">
+      <i class="fas fa-check-circle"></i>
+    </span>
+    <span>ABU Robocon 2017: Robot throwing the flying discs</span>
+   </button>
+  </div>
+ <div class = "block">
+  <p>Lorem ipsum</p>
+ </div>
+</div>
+
 
 
