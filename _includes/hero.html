@@ -8,6 +8,7 @@
                     </figure>
                 {% endif %}
         </div>
+        <h1 class="title is-1">A</h1>
         
         <div class="container {% if page.hero_text_align %} page.hero_text_align {% endif %}">
             <p class="pb-4">
@@ -15,11 +16,19 @@
                 <p class="subtitle is-3">
                     <p>{{ page.subtitle | markdownify}}</p>
                 </p>
+                {% if page.hero_icon_scroll %}
+                    <span class="icon is-large">
+                        <i class="fas fa-code-branch fa-2x"></i>
+                    </span>
+                {% endif %}
+                
                 {% if page.hero_link %}
                     <a href="{{ page.hero_link | relative_url }}" class="button is-dark is-large is-inverted is-outlined">{{ page.hero_link_text }}</a>
                 {% endif %}
             </p>
+            
         </div>
+        
         <div class="container has-text-centered">
             {% if page.bio %}
                 <p class="title is-2">
@@ -31,4 +40,8 @@
             {% endif %}
           </div>
     </div>
+
+    <!-- Hero footer: will stick at the bottom -->
+  <!--  -->
 </section>
+
