@@ -5,12 +5,11 @@ subtitle: |-
 
         Hi, My name is Truong Loc Phat.
 
-        I'm an Artificial Intelligence developer based in HCM, Viet Nam.
+        I'm an Machine Learning engineer, emphasis on Deep Learning in Computer Vision based in HCM, Viet Nam.
         
-        Understand, develop and apply Deep Learning / Machine Learning to real life is my hobby.
+        I love Math and Programming.
 
-        "Exploring the world with a tremendous curiosity of Science" - that's me
-
+        My favorite entertainments are soccer, badminton and PES.
         
 layout: page
 hero_image: /img/hero-wallpaper1.jpg
@@ -50,7 +49,7 @@ show_sidebar: true
    </button>
 </div>
 
-#### B.E of Mechatronics, Ho Chi Minh University of Technology and Education
+#### B.Eng of Mechatronics, Ho Chi Minh University of Technology and Education
 
    ![HCMUTE](/img/hcmute.jpg)
 

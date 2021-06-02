@@ -1,6 +1,6 @@
 ---
 title: TRUONG LOC PHAT
-subtitle: MACHINE LEARNING SPECIALIST
+subtitle: Machine Learning Engineer
 layout: page
 hero_image: /img/hero-wallpaper1.jpg
 hero_darken: true
@@ -11,6 +11,6 @@ hero_link_text: Explore more!
 # bio_text: |-
 #     phattruong@foreseeable.ai
 sponsors: bio_sponsors
-show_sidebar: false
+show_sidebar: false 
 ---
 
