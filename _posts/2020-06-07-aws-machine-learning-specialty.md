@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Amazon Web Services Machine Learning - Specialty Experience
-description: Amazon Web Services Machine Learning - Specialty Experience 
+description: Amazon Web Services Machine Learning - Specialty Experience
 summary: |-
     Fee: 300$
 
