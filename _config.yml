@@ -13,6 +13,7 @@ gh_sponsor:
 hide_share_buttons: false
 theme_color: '#333333'
 fixed_navbar: top
+home: Home
 
 # theme: bulma-clean-theme 
 remote_theme: chrisrhymes

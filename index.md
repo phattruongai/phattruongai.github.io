@@ -12,10 +12,59 @@ hero_icon_scroll: true
 # bio: true
 # bio_text: |-
 #     phattruong@foreseeable.ai
-sponsors: bio_sponsors
-show_sidebar: false 
+show_sidebar: true
 ---
 
-# I used to implement various AI project:
+<div class="columns is-mobile is-centered">
+<div class="buttons">
+<button class="button is-primary is-rounded is-medium is-hovered is-static">
+        WORKS
+</button>
+</div>
+</div>
+
+<div class="box">
+  
+ <div class = "block">
+   <button class="button is-primary is-normal is-static">
+    <span class="icon is-small has-text-success">
+      <i class="fas fa-check-circle"></i>
+    </span>
+    <span><b>Graduation Project: Tomato classification system</b></span>
+   </button>
+  </div>
+ <div class = "block">
+  <p>Lorem ipsum</p>
+ </div>
+</div>
+
+<div class="box">
+ <div class = "block">
+   <button class="button is-primary is-normal is-static">
+    <span class="icon is-small has-text-success">
+      <i class="fas fa-check-circle"></i>
+    </span>
+    <span><b>ABU Robocon 2018: Robot throw the shuttlecock</b></span>
+   </button>
+  </div>
+ <div class = "block">
+  <p>Lorem ipsum</p>
+ </div>
+</div>
+
+<div class="box">
+ <div class = "block">
+   <button class="button is-primary is-normal is-static">
+    <span class="icon is-small has-text-success">
+      <i class="fas fa-check-circle"></i>
+    </span>
+    <span><b>ABU Robocon 2017: Robot throwing the flying discs</b></span>
+   </button>
+  </div>
+ <div class = "block">
+  <p>Lorem ipsum</p>
+ </div>
+</div>
+
 
 
