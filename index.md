@@ -30,7 +30,7 @@ show_sidebar: true
     <span class="icon is-small has-text-success">
       <i class="fas fa-check-circle"></i>
     </span>
-    <span><b>Graduation Project: Tomato classification system</b></span>
+    <p><b>Graduation Project: Tomato classification system</b></p>
    </button>
   </div>
  <div class = "block">
@@ -44,7 +44,7 @@ show_sidebar: true
     <span class="icon is-small has-text-success">
       <i class="fas fa-check-circle"></i>
     </span>
-    <span><b>ABU Robocon 2018: Robot throw the shuttlecock</b></span>
+    <p><b>ABU Robocon 2018: Robot throw the shuttlecock</b></p>
    </button>
   </div>
  <div class = "block">
@@ -58,7 +58,7 @@ show_sidebar: true
     <span class="icon is-small has-text-success">
       <i class="fas fa-check-circle"></i>
     </span>
-    <span><b>ABU Robocon 2017: Robot throwing the flying discs</b></span>
+    <p><b>ABU Robocon 2017: Robot throwing the flying discs</b></p>
    </button>
   </div>
  <div class = "block">
