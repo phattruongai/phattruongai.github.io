@@ -24,7 +24,7 @@ show_sidebar: true
 </div>
 
 <div class="box">
-  
+<div class="container">
  <div class = "block">
    <button class="button is-primary is-normal is-static">
     <span class="icon is-small has-text-success">
@@ -37,8 +37,10 @@ show_sidebar: true
   <p>Lorem ipsum</p>
  </div>
 </div>
+</div>
 
 <div class="box">
+<div class="container">
  <div class = "block">
    <button class="button is-primary is-normal is-static">
     <span class="icon is-small has-text-success">
@@ -51,8 +53,10 @@ show_sidebar: true
   <p>Lorem ipsum</p>
  </div>
 </div>
+</div>
 
 <div class="box">
+<div class="container">
  <div class = "block">
    <button class="button is-primary is-normal is-static">
     <span class="icon is-small has-text-success">
@@ -64,6 +68,7 @@ show_sidebar: true
  <div class = "block">
   <p>Lorem ipsum</p>
  </div>
+</div>
 </div>
 
 
