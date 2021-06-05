@@ -5,7 +5,7 @@ subtitle: |-
 
         Hi, My name is Truong Loc Phat.
 
-        I'm an Machine Learning engineer, emphasis on Deep Learning in Computer Vision based in HCM, Viet Nam.
+        I'm a Machine Learning engineer, emphasis on Deep Learning in Computer Vision based in HCM, Viet Nam.
         
         I love Math and Programming.
 

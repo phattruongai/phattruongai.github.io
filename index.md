@@ -30,6 +30,38 @@ show_sidebar: true
     <span class="icon is-small has-text-success">
       <i class="fas fa-check-circle"></i>
     </span>
+    <b>Mask detection</b>
+   </div>
+  </div>
+ <div class = "block">
+  <p>Lorem ipsum</p>
+ </div>
+</div>
+</div>
+
+<div class="box">
+<div class="container">
+ <div class = "block">
+   <div class="box">
+    <span class="icon is-small has-text-success">
+      <i class="fas fa-check-circle"></i>
+    </span>
+    <b>Mask detection</b>
+   </div>
+  </div>
+ <div class = "block">
+  <p>Lorem ipsum</p>
+ </div>
+</div>
+</div>
+
+<div class="box">
+<div class="container">
+ <div class = "block">
+   <div class="box">
+    <span class="icon is-small has-text-success">
+      <i class="fas fa-check-circle"></i>
+    </span>
     <b>Graduation Project: Tomato classification system</b>
    </div>
   </div>
