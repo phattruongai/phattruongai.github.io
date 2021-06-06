@@ -7,9 +7,7 @@ subtitle: |-
 
         I'm a Machine Learning engineer, emphasis on Deep Learning in Computer Vision based in HCM, Viet Nam.
         
-        I love Math and Programming.
-
-        My favorite entertainments are soccer, badminton and PES.
+        Love Math and Programming.
         
 layout: page
 hero_image: /img/hero-wallpaper1.jpg

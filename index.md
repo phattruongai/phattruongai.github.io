@@ -18,15 +18,82 @@ show_sidebar: true
 <div class="columns is-mobile is-centered">
 <div class="buttons">
 <button class="button is-primary is-rounded is-medium is-hovered is-static">
-        WORKS
+        PROJECTS
 </button>
 </div>
 </div>
 
 <div class="box">
+<div class="block">
+ <div class = "block">
+   <div class="notification is-primary is-light">
+    <span class="icon is-small has-text-success">
+      <i class="fas fa-check-circle"></i>
+    </span>
+    <b>OCR</b>
+   </div>
+  </div>
+ <div class = "block">
+  <figure class="image is-16by9">
+    <img src="img/ocr.png">
+  </figure>
+ </div>
+</div>
+</div>
+
+<div class="box">
+<div class="block">
+ <div class = "block">
+   <div class="notification is-primary is-light">
+    <span class="icon is-small has-text-success">
+      <i class="fas fa-check-circle"></i>
+    </span>
+    <b>Contact tracing using camera</b>
+   </div>
+  </div>
+ <div class = "block">
+  {% include youtube.html width="640" height="360" video="b_UfbJz61fQ" %}
+ </div>
+</div>
+</div>
+
+<div class="box">
+<div class="block">
+ <div class = "block">
+   <div class="notification is-primary is-light">
+    <span class="icon is-small has-text-success">
+      <i class="fas fa-check-circle"></i>
+    </span>
+    <b>Multi people multi camera tracking</b>
+   </div>
+  </div>
+ <div class = "block">
+  {% include raw-video.html ratio="is-3by2" width="640" height="426" video="img/vid/multi-tracking.mp4" %}
+ </div>
+</div>
+</div>
+
+<div class="box">
+<div class="block">
+ <div class = "block">
+   <div class="notification is-primary is-light">
+    <span class="icon is-small has-text-success">
+      <i class="fas fa-check-circle"></i>
+    </span>
+    <b>Crime in progress detection and perpetrator tracking</b>
+   </div>
+  </div>
+ <div class = "block">
+  {% include youtube.html width="640" height="360"  video="LcSUrXxum-U" %}
+ </div>
+</div>
+</div>
+
+
+<div class="box">
 <div class="container">
  <div class = "block">
-   <div class="box">
+   <div class="notification is-primary is-light">
     <span class="icon is-small has-text-success">
       <i class="fas fa-check-circle"></i>
     </span>
@@ -34,31 +101,15 @@ show_sidebar: true
    </div>
   </div>
  <div class = "block">
-  
+  {% include youtube.html width="640" height="360" video="nMCdnSzFUPE" %}
  </div>
 </div>
 </div>
 
-<div class="box">
+<!-- <div class="box">
 <div class="container">
  <div class = "block">
-   <div class="box">
-    <span class="icon is-small has-text-success">
-      <i class="fas fa-check-circle"></i>
-    </span>
-    <b>Mask detection</b>
-   </div>
-  </div>
- <div class = "block">
-  {% include youtube.html video="nMCdnSzFUPE" %}
- </div>
-</div>
-</div>
-
-<div class="box">
-<div class="container">
- <div class = "block">
-   <div class="box">
+   <div class="notification is-primary is-light">
     <span class="icon is-small has-text-success">
       <i class="fas fa-check-circle"></i>
     </span>
@@ -74,7 +125,7 @@ show_sidebar: true
 <div class="box">
 <div class="container">
  <div class = "block">
-   <div class="box">
+   <div class="notification is-primary is-light">
     <span class="icon is-small has-text-success">
       <i class="fas fa-check-circle"></i>
     </span>
@@ -90,7 +141,7 @@ show_sidebar: true
 <div class="box">
 <div class="container">
  <div class = "block">
-   <div class="box">
+   <div class="notification is-primary is-light">
     <span class="icon is-small has-text-success">
       <i class="fas fa-check-circle"></i>
     </span>
@@ -101,7 +152,7 @@ show_sidebar: true
   <p>Lorem ipsum</p>
  </div>
 </div>
-</div>
+</div> -->
 
 
 
