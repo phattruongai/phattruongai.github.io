@@ -34,7 +34,7 @@ show_sidebar: true
    </div>
   </div>
  <div class = "block">
-  <p>Lorem ipsum</p>
+  
  </div>
 </div>
 </div>
@@ -50,7 +50,7 @@ show_sidebar: true
    </div>
   </div>
  <div class = "block">
-  <p>Lorem ipsum</p>
+  {% include youtube.html video="nMCdnSzFUPE" %}
  </div>
 </div>
 </div>
