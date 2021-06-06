@@ -34,7 +34,7 @@ show_sidebar: true
    </div>
   </div>
  <div class = "block">
-  <p>Lorem ipsum</p>
+  
  </div>
 </div>
 </div>
@@ -50,7 +50,9 @@ show_sidebar: true
    </div>
   </div>
  <div class = "block">
-  <p>Lorem ipsum</p>
+  <figure class="image is-16by9">
+    <iframe class="has-ratio" width="640" height="360" src="https://www.youtube.com/watch?v=nMCdnSzFUPE" frameborder="0" allowfullscreen></iframe>
+  </figure>
  </div>
 </div>
 </div>
