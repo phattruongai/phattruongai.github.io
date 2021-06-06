@@ -109,8 +109,10 @@ show_sidebar: true
     <b>Mask detection</b>
    </div>
   </div>
- <div class="column is-10 is-offset-1">
-  {% include youtube.html width="640" height="360" video="nMCdnSzFUPE" %}
+ <div class="block">
+  <div class="column is-10 is-offset-1">
+  {% include youtube.html ratio="is-16by9"  video="nMCdnSzFUPE" %}
+  </div>
  </div>
 </div>
 </div>
