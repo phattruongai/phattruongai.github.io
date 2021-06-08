@@ -1,7 +1,7 @@
 ---
 title: TRUONG LOC PHAT
 subtitle: |-
-        Machine Learning Engineer
+        Machine Learning Engineer / Artificial Intelligence Developer
 layout: page
 hero_image: /img/hero-wallpaper1.jpg
 hero_darken: true
@@ -23,6 +23,8 @@ show_sidebar: true
 </div>
 </div>
 
+---
+
 <div class="box">
 <div class="block">
  <div class = "block">
@@ -30,9 +32,23 @@ show_sidebar: true
     <span class="icon is-small has-text-success">
       <i class="fas fa-check-circle"></i>
     </span>
-    <b>OCR</b>
+    <strong>OCR</strong>
    </div>
   </div>
+
+ <div class="block">
+ <div class="column is-12">
+  <article class="message is-success">
+    <div class="message-body">
+      <div class="block">
+        <p>Training models which scan images and do the optical character recognition to extract texts from web page, scanned or handwriting document</p>
+        <p>See my latest report dashboard <a href="https://wandb.ai/phattruong2709/Paddle-OCR/runs/117zodm2/overview" title="dashboard">here</a></p>
+      </div>
+    </div>
+  </article>
+ </div>
+ </div>
+
  <div class = "block">
   <div class="column">
     <figure class="image is-2by1">
@@ -41,8 +57,14 @@ show_sidebar: true
   </div>
  </div>
 </div>
+
+<div class="block">
+  {% include table-ocr.html %}
 </div>
 
+</div>
+
+---
 
 <div class="box">
 <div class="block">
@@ -54,13 +76,33 @@ show_sidebar: true
     <b>Multi people multi camera tracking</b>
    </div>
   </div>
+
+ <div class="block">
+ <div class="column is-12">
+  <article class="message is-success">
+    <div class="message-body">
+      <div class="block">
+        <p>Implement an algorithm to track multi people in multi camera views based on <b>Person Re-Identification model</b></p>
+      </div>
+    </div>
+  </article>
+ </div>
+ </div>
+
  <div class = "block">
   <div class="column is-10 is-offset-1">
   {% include youtube.html ratio="is-16by9"  video="rdDCk8k9cE0" %}
   </div>
  </div>
 </div>
+
+<!-- <div class="block">
+  {% include table-mpmct.html %}
+</div> -->
+
 </div>
+
+---
 
 <div class="box">
 <div class="block">
@@ -98,6 +140,7 @@ show_sidebar: true
 </div>
 </div>
 
+---
 
 <div class="box">
 <div class="container">
@@ -117,6 +160,8 @@ show_sidebar: true
 </div>
 </div>
 
+---
+
 <div class="box">
 <div class="block">
  <div class = "block">
@@ -134,6 +179,8 @@ show_sidebar: true
  </div>
 </div>
 </div>
+
+---
 
 <!-- <div class="box">
 <div class="container">
