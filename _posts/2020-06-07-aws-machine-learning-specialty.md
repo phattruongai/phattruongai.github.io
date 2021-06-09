@@ -13,7 +13,7 @@ hero_height:
 hero_darken:
 hide_hero: 
 image: /img/AWS-cert-hero.png
-tags: AWS certification sharing 
+tags: AWS certification sharing
 canonical_url:
 ---
 
@@ -92,7 +92,3 @@ There are also many other types of question, like which services or composition 
 And here are my accomplishment kk 
 
 ![alt text](/img/aws-score.png)
-
-<div class="box">
-  python3 test.py
-</div>

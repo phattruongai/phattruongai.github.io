@@ -54,12 +54,17 @@ show_sidebar: true
     <figure class="image is-2by1">
       <img src="img/ocr.png">
     </figure>
+    <figure class="image is-3by1">
+      <img src="img/train-ocr.png">
+    </figure>
   </div>
  </div>
 </div>
 
 <div class="block">
+  <div class="column is-12">
   {% include table-ocr.html %}
+  </div>
 </div>
 
 </div>
@@ -96,9 +101,11 @@ show_sidebar: true
  </div>
 </div>
 
-<!-- <div class="block">
+<div class="block">
+  <div class="column is-12">
   {% include table-mpmct.html %}
-</div> -->
+  </div>
+</div>
 
 </div>
 
@@ -114,13 +121,35 @@ show_sidebar: true
     <b>Crime in progress detection</b>
    </div>
   </div>
+
+ <div class="block">
+ <div class="column is-12">
+  <article class="message is-success">
+    <div class="message-body">
+      <div class="block">
+        <p>Implement an algorithm combining many models which detect many criminal factors to determine whether a crime is in progress and also detect the perpetrator who involve to the criminal</p>
+      </div>
+    </div>
+  </article>
+ </div>
+ </div>
+
  <div class="block">
   <div class="column is-10 is-offset-1">
   {% include youtube.html ratio="is-16by9"  video="K9L9HiHmScg" %}
   </div>
  </div>
 </div>
+
+<div class="block">
+  <div class="column is-12">
+  {% include table-cip.html %}
+  </div>
 </div>
+
+</div>
+
+---
 
 <div class="box">
 <div class="block">
@@ -132,12 +161,26 @@ show_sidebar: true
     <b>Perpetrator detection and tracking through many cameras</b>
    </div>
   </div>
+
+ <div class="block">
+ <div class="column is-12">
+  <article class="message is-success">
+    <div class="message-body">
+      <div class="block">
+        <p>The combination of <b>Multi people multi camera tracking</b> and <b>Crime in progress detection</b>, after determine the perpetrator, the system will track him/her through many cameras, especially these camera do not need to overlap each other</p>
+      </div>
+    </div>
+  </article>
+ </div>
+ </div>
+
  <div class="block">
   <div class="column is-10 is-offset-1">
   {% include youtube.html ratio="is-16by9"  video="qKpYqPaBBsI" %}
   </div>
  </div>
 </div>
+
 </div>
 
 ---
@@ -152,12 +195,32 @@ show_sidebar: true
     <b>Mask detection</b>
    </div>
   </div>
+
+ <div class="block">
+ <div class="column is-12">
+  <article class="message is-success">
+    <div class="message-body">
+      <div class="block">
+        <p>Detect whether a person wearing mask or not and raise an alert, help warning people automatically in the spreading of the COVID-19 pandemic</p>
+      </div>
+    </div>
+  </article>
+ </div>
+ </div>
+
  <div class="block">
   <div class="column is-10 is-offset-1">
   {% include youtube.html ratio="is-16by9"  video="nMCdnSzFUPE" %}
   </div>
  </div>
 </div>
+
+<div class="block">
+  <div class="column is-12">
+  {% include table-mask.html %}
+  </div>
+</div>
+
 </div>
 
 ---
@@ -172,12 +235,32 @@ show_sidebar: true
     <b>Contact tracing using camera</b>
    </div>
   </div>
+
+ <div class="block">
+ <div class="column is-12">
+  <article class="message is-success">
+    <div class="message-body">
+      <div class="block">
+        <p>Detect whether a person wearing mask or not and measure the distance from each other for contact tracing later</p>
+      </div>
+    </div>
+  </article>
+ </div>
+ </div>
+
  <div class = "block">
   <div class="column is-10 is-offset-1">
   {% include youtube.html ratio="is-16by9" width="640" height="360" video="b_UfbJz61fQ" %}
   </div>
  </div>
 </div>
+
+<div class="block">
+  <div class="column is-12">
+  {% include table-contact.html %}
+  </div>
+</div>
+
 </div>
 
 ---
