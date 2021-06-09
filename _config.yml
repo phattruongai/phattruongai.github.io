@@ -18,6 +18,9 @@ home: Home
 # theme: bulma-clean-theme 
 remote_theme: chrisrhymes
 
+gems:
+  - jekyll-paginate-v2
+
 paginate: 5
 paginate_path: "/blog/page:num"
 
