@@ -29,6 +29,8 @@ disqus:
   # shortname: my_disqus_shortname
   shortname: 
 
+fb_comment_id: "137976551652832"
+
 
 plugins:
   - jekyll-sitemap

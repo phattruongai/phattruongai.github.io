@@ -14,6 +14,7 @@ hero_darken:
 hide_hero: 
 image: /img/AWS-cert-hero.png
 tags: AWS certification sharing
+comments: true
 canonical_url:
 ---
 
