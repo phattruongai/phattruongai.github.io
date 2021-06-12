@@ -9,6 +9,7 @@ hero_height: is-large
 hero_link: /about/
 hero_link_text: About me
 hero_icon_scroll: true
+comments: true
 # bio: true
 # bio_text: |-
 #     phattruong@foreseeable.ai
@@ -264,6 +265,8 @@ show_sidebar: true
 </div>
 
 ---
+
+{% include comment.html %}
 
 <!-- <div class="box">
 <div class="container">
