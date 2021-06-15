@@ -66,11 +66,11 @@
                   </a>
                   <div class="navbar-dropdown">
                     {% if page.url contains '/vi' %}
-                      <a href="{{ page.url | replace: '/vi' , '' }}" class="navbar-item">en</a>
+                      <a href="{{ 'https://phattruongai.github.io' | append: page.url }}" class="navbar-item">en</a>
                       <a href="{{ page.url }}" class="navbar-item is-active">vi</a>
                       {% else %}
                       <a href="{{ page.url }}" class="navbar-item is-active">en</a>
-                      <a href="{{ page.url | replace: 'github.io' , 'github.io/vi' }}" class="navbar-item">vi</a>
+                      <a href="{{ 'https://phattruongai.github.io/vi' | append: page.url }}" class="navbar-item">vi</a>
                     {% endif %}
                   </div>
                 </div>
