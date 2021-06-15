@@ -62,14 +62,14 @@
                 </div>
                 <div class="navbar-item has-dropdown is-hoverable {% if site.fixed_navbar == 'bottom' %} has-dropdown-up {% endif %}">
                   <a class="navbar-link">
-                    lang
+                    language
                   </a>
                   <div class="navbar-dropdown">
                     {% if page.url contains '/vi' %}
                       <a href="{{ 'https://phattruongai.github.io' | append: page.url }}" class="navbar-item">en</a>
-                      <a href="{{ page.url }}" class="navbar-item is-active">vi</a>
+                      <a href="{{ page.url }}" class="navbar-item is-active">Vietnamese</a>
                       {% else %}
-                      <a href="{{ page.url }}" class="navbar-item is-active">en</a>
+                      <a href="{{ page.url }}" class="navbar-item is-active">English</a>
                       <a href="{{ 'https://phattruongai.github.io/vi' | append: page.url }}" class="navbar-item">vi</a>
                     {% endif %}
                   </div>
