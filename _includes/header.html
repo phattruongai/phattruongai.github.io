@@ -65,13 +65,8 @@
                     lang
                   </a>
                   <div class="navbar-dropdown">
-                    {% if page.url contains '/vi' %}
-                      <a href="{{ 'https://phattruongai.github.io' | append: page.url }}" class="navbar-item">English</a>
-                      <a href="{{ page.url }}" class="navbar-item is-active">Vietnamese</a>
-                      {% else %}
                       <a href="{{ page.url }}" class="navbar-item is-active">English</a>
                       <a href="{{ 'https://phattruongai.github.io/vi' | append: page.url }}" class="navbar-item">Vietnamese</a>
-                    {% endif %}
                   </div>
                 </div>
               </div>
