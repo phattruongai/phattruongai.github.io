@@ -61,9 +61,9 @@
                   </div>
                 </div>
                 <div class="navbar-item has-dropdown is-hoverable {% if site.fixed_navbar == 'bottom' %} has-dropdown-up {% endif %}">
-                  <span class="icon">
-                    <i class="fas fa-globe-asia"></i>
-                  </span>
+                  <a class="navbar-link">
+                    lang
+                  </a>
                   <div class="navbar-dropdown">
                     {% if page.url contains '/vi' %}
                       <a href="{{ page.url | replace: '/vi' , '' }}" class="navbar-item">en</a>
