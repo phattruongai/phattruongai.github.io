@@ -3,12 +3,15 @@ title: ABOUT
 subtitle: |- 
         - 
 
-        Hi, My name is Truong Loc Phat.
+        Hi, My name is Truong Loc Phat and this is my personal page
 
-        I'm a Machine Learning engineer, emphasis on Deep Learning in Computer Vision based in HCM, Viet Nam.
+        I'm a Machine Learning engineer, emphasis on Deep Learning in Computer Vision based in HCM, Viet Nam
         
-        Love Math and Programming.
+        I love Math and Programming and enjoy learning about them
         
+        It is very likely that I’ll make mistakes in my posts, so feel free to correct me if I’m wrong
+
+        Questions are welcome!
 layout: page
 hero_image: /img/hero-wallpaper1.jpg
 hero_darken: true
