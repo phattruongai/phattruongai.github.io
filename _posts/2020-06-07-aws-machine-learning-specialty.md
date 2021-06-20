@@ -4,7 +4,7 @@ date: 2020-06-07 09:00:07
 image: /img/AWS-cert-hero.png
 tags: AWS certification sharing
 comments: true
-toc: false
+toc: true
 show_sidebar: true
 title: Amazon Web Services Machine Learning - Specialty Experience
 description: Amazon Web Services Machine Learning - Specialty Experience
